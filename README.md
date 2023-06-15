@@ -13,7 +13,7 @@ This was one of the simpler tasks since the HTML was a lot of
 coping and pasting the time blocks and just changing the text and display.
 The J Query functions were easier to figure out and fairly minimal. 
 
-The deployed webpage can be found here:
+The deployed webpage can be found here: https://leamr10.github.io/fictional-pancake/
 
 The starter code can be found here: https://github.com/coding-boot-camp/crispy-octo-meme
 
