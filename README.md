@@ -17,4 +17,4 @@ The deployed webpage can be found here:
 
 The starter code can be found here: https://github.com/coding-boot-camp/crispy-octo-meme
 
-A screen capture of the webpage can be found below:
+A screen capture of the webpage can be found below: ![screencapture-file-C-Users-leamr-OneDrive-Desktop-workspace-fictional-pancake-index-html-2023-06-15-15_39_53](https://github.com/leamr10/fictional-pancake/assets/133124800/25006706-7580-4292-bf05-516ffbac3fb4)
